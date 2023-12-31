@@ -8,8 +8,12 @@
 * [🙇 Adopt A Persona](write-clear-instructions/adopt-a-persona.md)
 * [📃 Use Delimiters](write-clear-instructions/use-delimiters.md)
 * [✂ Specify The Steps](write-clear-instructions/specify-the-steps.md)
-* [🧑🏫 Provide Examples](write-clear-instructions/provide-examples.md)
+* [🧑🏫 Provide Examples](write-clear-instructions/provide-examples/README.md)
+  * [1⃣ One-Shot](write-clear-instructions/provide-examples/one-shot.md)
+  * [🔢 Few-shots](write-clear-instructions/provide-examples/few-shots.md)
 * [⏳ Specify Output Length](write-clear-instructions/specify-output-length.md)
+* [🎨 Specify Output Format](write-clear-instructions/specify-output-format.md)
+* [🤷♂ Specify Tone](write-clear-instructions/specify-tone.md)
 
 ## Provide Reference Text
 

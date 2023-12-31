@@ -24,8 +24,8 @@ Here are a couple of example overviews from products with really great docs:
 [include-details.md](write-clear-instructions/include-details.md)
 {% endcontent-ref %}
 
-{% content-ref url="write-clear-instructions/provide-examples.md" %}
-[provide-examples.md](write-clear-instructions/provide-examples.md)
+{% content-ref url="write-clear-instructions/provide-examples/" %}
+[provide-examples](write-clear-instructions/provide-examples/)
 {% endcontent-ref %}
 
 ## Get Started
