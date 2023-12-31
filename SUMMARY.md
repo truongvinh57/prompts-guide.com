@@ -99,7 +99,7 @@
 * [Prompt engineering](prompt-examples/prompt-engineering.md)
 * [SEO](prompt-examples/seo.md)
 
-## 🔗 QUICK LINKS
+## QUICK LINKS
 
 * [ChatGPT](https://chat.openai.com/)
 * [Bing Chat](https://www.bing.com/search?q=Bing+AI\&showconv=1\&FORM=hpcodx)
