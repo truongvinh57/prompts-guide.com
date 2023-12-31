@@ -1,2 +1,0 @@
-# 📄 Scientific Papers
-

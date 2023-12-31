@@ -1,2 +1,2 @@
-# 🤷♂ Specify Tone
+# Specify Tone
 

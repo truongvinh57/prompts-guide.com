@@ -1,2 +1,0 @@
-# 📚 Prompting Tactics
-

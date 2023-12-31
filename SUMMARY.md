@@ -1,77 +1,96 @@
 # Table of contents
 
-* [👋 WELCOME](README.md)
+## WELCOME
 
-## PROMPT ENGINEERING
+* [Home](README.md)
+* [Intro](welcome/intro.md)
+* [Get Started](welcome/get-started.md)
+* [Key Concepts](welcome/key-concepts.md)
+* [Prompt Elements](welcome/prompt-elements.md)
+* [Prompt Examples](welcome/prompt-examples.md)
 
-* [📚 Prompting Tactics](prompt-engineering/prompting-tactics/README.md)
-  * [✍ Write Clear Instructions](prompt-engineering/prompting-tactics/write-clear-instructions/README.md)
-    * [💡 Include Details](prompt-engineering/prompting-tactics/write-clear-instructions/include-details.md)
-    * [🙇 Adopt A Persona](prompt-engineering/prompting-tactics/write-clear-instructions/adopt-a-persona.md)
-    * [📃 Use Delimiters](prompt-engineering/prompting-tactics/write-clear-instructions/use-delimiters.md)
-    * [✂ Specify The Steps](prompt-engineering/prompting-tactics/write-clear-instructions/specify-the-steps.md)
-    * [🧑🏫 Provide Examples](prompt-engineering/prompting-tactics/write-clear-instructions/provide-examples.md)
-    * [📏 Specify Output Length](prompt-engineering/prompting-tactics/write-clear-instructions/specify-output-length.md)
-  * [📄 Provide Reference Text](prompt-engineering/prompting-tactics/provide-reference-text/README.md)
-    * [📪 Use Reference Text](prompt-engineering/prompting-tactics/provide-reference-text/use-reference-text.md)
-    * [📎 Cite From Reference Text](prompt-engineering/prompting-tactics/provide-reference-text/cite-from-reference-text.md)
-  * [✂ Split Task Into Subtasks](prompt-engineering/prompting-tactics/split-task-into-subtasks/README.md)
-    * [🛠 Use Intent Classification](prompt-engineering/prompting-tactics/split-task-into-subtasks/use-intent-classification.md)
-    * [📝 Sumarize Previous Dialogue](prompt-engineering/prompting-tactics/split-task-into-subtasks/sumarize-previous-dialogue.md)
-    * [🧑 Sumarize Recursively](prompt-engineering/prompting-tactics/split-task-into-subtasks/sumarize-recursively.md)
-  * [⏳ Give model time to think](prompt-engineering/prompting-tactics/give-model-time-to-think/README.md)
-    * [🎨 Generate Independent Solution](prompt-engineering/prompting-tactics/give-model-time-to-think/generate-independent-solution.md)
-    * [🖥 Hide Reasoning Process](prompt-engineering/prompting-tactics/give-model-time-to-think/hide-reasoning-process.md)
-    * [😀 Self-Evaluate Answers](prompt-engineering/prompting-tactics/give-model-time-to-think/self-evaluate-answers.md)
-  * [🛠 Use external tools](prompt-engineering/prompting-tactics/use-external-tools/README.md)
-    * [💽 Use Embeddings-based Search](prompt-engineering/prompting-tactics/use-external-tools/use-embeddings-based-search.md)
-    * [💻 Use Code Execution](prompt-engineering/prompting-tactics/use-external-tools/use-code-execution.md)
-    * [⚙ Call Specific Functions](prompt-engineering/prompting-tactics/use-external-tools/call-specific-functions.md)
-  * [🧪 Test changes systematically](prompt-engineering/prompting-tactics/test-changes-systematically/README.md)
-    * [☑ Evaluate With Standard Answers](prompt-engineering/prompting-tactics/test-changes-systematically/evaluate-with-standard-answers.md)
-* [👨⚕ Troubleshoot Result](prompt-engineering/troubleshoot-result.md)
-* [🎩 Prompt Hacking](prompt-engineering/prompt-hacking.md)
+## WRITE CLEAR INSTRUCTIONS
 
-## TASKS
+* [💡 Include Details](write-clear-instructions/include-details.md)
+* [🙇 Adopt A Persona](write-clear-instructions/adopt-a-persona.md)
+* [📃 Use Delimiters](write-clear-instructions/use-delimiters.md)
+* [✂ Specify The Steps](write-clear-instructions/specify-the-steps.md)
+* [🧑🏫 Provide Examples](write-clear-instructions/provide-examples.md)
+* [📏 Specify Output Length](write-clear-instructions/specify-output-length.md)
+* [Specify Tone](write-clear-instructions/specify-tone.md)
+* [Specify Format](write-clear-instructions/specify-format.md)
+* [Specify audience](write-clear-instructions/specify-audience.md)
 
-* [🔠 Language Tasks](tasks/language-tasks/README.md)
-  * [Conversational](tasks/language-tasks/conversational/README.md)
-    * [Roleplay Dialogue](tasks/language-tasks/conversational/roleplay-dialogue.md)
-  * [Question Answering](tasks/language-tasks/question-answering.md)
-  * [Summarization](tasks/language-tasks/summarization.md)
-  * [Sentence Similarity](tasks/language-tasks/sentence-similarity.md)
-  * [Table Question Answering](tasks/language-tasks/table-question-answering.md)
-  * [Text Classification](tasks/language-tasks/text-classification/README.md)
-    * [Sentiment Recognition](tasks/language-tasks/text-classification/sentiment-recognition.md)
-  * [✨ Text Generation](tasks/language-tasks/text-generation/README.md)
-    * [Text Checking](tasks/language-tasks/text-generation/text-checking.md)
-    * [Text Extracting](tasks/language-tasks/text-generation/text-extracting.md)
-    * [Text Removing](tasks/language-tasks/text-generation/text-removing.md)
-    * [Text Restructuring](tasks/language-tasks/text-generation/text-restructuring.md)
-    * [Text Rewriting](tasks/language-tasks/text-generation/text-rewriting.md)
-    * [Text Expanding](tasks/language-tasks/text-generation/text-expanding.md)
-  * [Translation](tasks/language-tasks/translation.md)
-* [🎦 Multimodal Tasks](tasks/multimodal-tasks/README.md)
-  * [Document Q\&A](tasks/multimodal-tasks/document-q-and-a.md)
-  * [Image-To-Text](tasks/multimodal-tasks/image-to-text.md)
-  * [Speech-To-Text](tasks/multimodal-tasks/speech-to-text.md)
-  * [Text-To-Image](tasks/multimodal-tasks/text-to-image.md)
-  * [Text-To-Speech](tasks/multimodal-tasks/text-to-speech.md)
-  * [Text-To-Video](tasks/multimodal-tasks/text-to-video.md)
-  * [Visual Q\&A](tasks/multimodal-tasks/visual-q-and-a.md)
+## Provide Reference Text
 
-## 📜 READING LIST
+* [📪 Use Reference Text](provide-reference-text/use-reference-text.md)
+* [📎 Cite From Reference Text](provide-reference-text/cite-from-reference-text.md)
 
-* [📄 Scientific Papers](reading-list/scientific-papers/README.md)
-  * [1 Overview](reading-list/scientific-papers/overview.md)
-  * [2 Pilot Work](reading-list/scientific-papers/pilot-work.md)
-  * [3 Basics](reading-list/scientific-papers/basics.md)
-  * [4 Analysis](reading-list/scientific-papers/analysis.md)
-  * [5 Improvements](reading-list/scientific-papers/improvements.md)
-  * [6 Specializations](reading-list/scientific-papers/specializations.md)
-* [🌎 Blogs](reading-list/blogs.md)
+## Split Task Into Subtasks
 
-## 🔗 PROMPT TEMPLATES
+* [📝 Sumarize Previous Dialogue](split-task-into-subtasks/sumarize-previous-dialogue.md)
+* [🧑 Sumarize Recursively](split-task-into-subtasks/sumarize-recursively.md)
+* [🛠 Use Intent Classification](split-task-into-subtasks/use-intent-classification.md)
 
-* [The Prompt Index](https://www.thepromptindex.com/prompt-database.php)
-* [2,500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
+## Give model time to think
+
+* [Check comprehension](give-model-time-to-think/check-comprehension.md)
+* [😀 Self-Evaluate Answers](give-model-time-to-think/self-evaluate-answers.md)
+* [🖥 Hide Reasoning Process](give-model-time-to-think/hide-reasoning-process.md)
+* [🎨 Generate Independent Solution](give-model-time-to-think/generate-independent-solution.md)
+
+## Use external tools
+
+* [💽 Use Embeddings-based Search](use-external-tools/use-embeddings-based-search.md)
+* [💻 Use Code Execution](use-external-tools/use-code-execution.md)
+* [⚙ Call Specific Functions](use-external-tools/call-specific-functions.md)
+
+## EVALUATE OUTPUT
+
+* [☑ Evaluate With Standard Answers](evaluate-output/evaluate-with-standard-answers.md)
+
+## QUALITY ASSURANCE
+
+* [Meta-prompting](quality-assurance/meta-prompting.md)
+* [Prevent hallucinations](quality-assurance/prevent-hallucinations.md)
+* [Re-run prompt](quality-assurance/re-run-prompt.md)
+* [Ensemble results](quality-assurance/ensemble-results.md)
+* [Debias result](quality-assurance/debias-result.md)
+
+## PROMT HACKING
+
+* [Prompt Injecting](promt-hacking/prompt-injecting.md)
+* [Prompt Leaking](promt-hacking/prompt-leaking.md)
+* [Jailbreaking](promt-hacking/jailbreaking.md)
+* [Defensive tactics](promt-hacking/defensive-tactics.md)
+* [Offensive tactics](promt-hacking/offensive-tactics.md)
+
+## LANGUAGE TASKS
+
+* [Answer](language-tasks/answer.md)
+* [Check](language-tasks/check.md)
+* [Classify](language-tasks/classify.md)
+* [Expand](language-tasks/expand.md)
+* [Extract](language-tasks/extract.md)
+* [Remove](language-tasks/remove.md)
+* [Restructure](language-tasks/restructure.md)
+* [Rewrite](language-tasks/rewrite.md)
+* [Summarize](language-tasks/summarize.md)
+* [Translate](language-tasks/translate.md)
+
+## MULTIMODAL TASKS
+
+* [Document Q\&A](multimodal-tasks/document-q-and-a.md)
+* [Image-To-Text](multimodal-tasks/image-to-text.md)
+* [Speech-To-Text](multimodal-tasks/speech-to-text.md)
+* [Text-To-Image](multimodal-tasks/text-to-image.md)
+* [Text-To-Speech](multimodal-tasks/text-to-speech.md)
+* [Text-To-Video](multimodal-tasks/text-to-video.md)
+* [Visual Q\&A](multimodal-tasks/visual-q-and-a.md)
+
+## 🔗 CHATBOT
+
+* [ChatGPT](https://chat.openai.com/)
+* [Google Bard](https://bard.google.com/chat)
+* [Claude](https://claude.ai/chats)
+* [Bing Chat](https://www.bing.com/search?q=Bing+AI\&showconv=1\&FORM=hpcodx)
