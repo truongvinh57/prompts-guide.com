@@ -3,8 +3,8 @@
 ## WELCOME
 
 * [Home](README.md)
-* [Intro](welcome/intro.md)
-* [Get Started](welcome/get-started.md)
+* [Introduction](welcome/introduction.md)
+* [Getting Started](welcome/getting-started.md)
 * [Key Concepts](welcome/key-concepts.md)
 * [Prompt Elements](welcome/prompt-elements.md)
 * [Prompt Examples](welcome/prompt-examples.md)
