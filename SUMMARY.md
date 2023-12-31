@@ -3,7 +3,6 @@
 ## WELCOME
 
 * [Home](README.md)
-* [Introduction](welcome/introduction.md)
 * [Getting started](welcome/getting-started.md)
 * [Key concepts](welcome/key-concepts.md)
 * [Prompt elements](welcome/prompt-elements.md)
@@ -48,13 +47,13 @@
 
 * [Build evals](evaluate-output/build-evals.md)
 
-## QUALITY ASSURANCE
+## IMPROVE RESPONSE QUALITY
 
-* [Meta-prompting](quality-assurance/meta-prompting.md)
-* [Prevent hallucinations](quality-assurance/prevent-hallucinations.md)
-* [Re-run prompt](quality-assurance/re-run-prompt.md)
-* [Ensemble results](quality-assurance/ensemble-results.md)
-* [Debias result](quality-assurance/debias-result.md)
+* [Meta-prompting](improve-response-quality/meta-prompting.md)
+* [Prevent hallucinations](improve-response-quality/prevent-hallucinations.md)
+* [Re-run prompt](improve-response-quality/re-run-prompt.md)
+* [Ensemble results](improve-response-quality/ensemble-results.md)
+* [Debias result](improve-response-quality/debias-result.md)
 
 ## PROMT HACKING
 
@@ -87,20 +86,20 @@
 * [Text-To-Video](multimodal-tasks/text-to-video.md)
 * [Visual Q\&A](multimodal-tasks/visual-q-and-a.md)
 
-## Prompt examples
+## Prompt templates
 
-* [Blog writing](prompt-examples/blog-writing.md)
-* [Business](prompt-examples/business.md)
-* [Coding](prompt-examples/coding.md)
-* [Copywriting](prompt-examples/copywriting.md)
-* [Education](prompt-examples/education.md)
-* [Marketing](prompt-examples/marketing.md)
-* [Problem solving](prompt-examples/problem-solving.md)
-* [Productivity](prompt-examples/productivity.md)
-* [Prompt engineering](prompt-examples/prompt-engineering.md)
-* [SEO](prompt-examples/seo.md)
+* [Blog writing](prompt-templates/blog-writing.md)
+* [Business](prompt-templates/business.md)
+* [Coding](prompt-templates/coding.md)
+* [Copywriting](prompt-templates/copywriting.md)
+* [Education](prompt-templates/education.md)
+* [Marketing](prompt-templates/marketing.md)
+* [Problem solving](prompt-templates/problem-solving.md)
+* [Productivity](prompt-templates/productivity.md)
+* [Prompt engineering](prompt-templates/prompt-engineering.md)
+* [SEO](prompt-templates/seo.md)
 
-## 🔗 CHATBOT
+## 🔗 QUICK LINKS
 
 * [ChatGPT](https://chat.openai.com/)
 * [Bing Chat](https://www.bing.com/search?q=Bing+AI\&showconv=1\&FORM=hpcodx)
