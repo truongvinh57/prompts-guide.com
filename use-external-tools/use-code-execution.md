@@ -1,2 +1,2 @@
-# 💻 Use Code Execution
+# Use code execution
 

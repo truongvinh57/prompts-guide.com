@@ -1,4 +1,4 @@
-# 🛠 Use Intent Classification
+# Use intent classification
 
 <details>
 

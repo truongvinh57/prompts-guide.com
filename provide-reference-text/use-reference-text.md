@@ -1,4 +1,4 @@
-# 📪 Use Reference Text
+# Use reference text
 
 ## Step 1 - Start journalling
 

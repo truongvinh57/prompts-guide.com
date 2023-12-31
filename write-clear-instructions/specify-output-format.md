@@ -1,2 +1,2 @@
-# 🎨 Specify Output Format
+# Specify Format
 

@@ -1,2 +1,2 @@
-# 🙇 Adopt A Persona
+# Adopt a persona
 

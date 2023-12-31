@@ -4,50 +4,49 @@
 
 * [Home](README.md)
 * [Introduction](welcome/introduction.md)
-* [Getting Started](welcome/getting-started.md)
-* [Key Concepts](welcome/key-concepts.md)
-* [Prompt Elements](welcome/prompt-elements.md)
-* [Prompt Examples](welcome/prompt-examples.md)
+* [Getting started](welcome/getting-started.md)
+* [Key concepts](welcome/key-concepts.md)
+* [Prompt elements](welcome/prompt-elements.md)
 
 ## WRITE CLEAR INSTRUCTIONS
 
-* [💡 Include Details](write-clear-instructions/include-details.md)
-* [🙇 Adopt A Persona](write-clear-instructions/adopt-a-persona.md)
-* [📃 Use Delimiters](write-clear-instructions/use-delimiters.md)
-* [✂ Specify The Steps](write-clear-instructions/specify-the-steps.md)
-* [🧑🏫 Provide Examples](write-clear-instructions/provide-examples.md)
-* [📏 Specify Output Length](write-clear-instructions/specify-output-length.md)
-* [Specify Tone](write-clear-instructions/specify-tone.md)
-* [Specify Format](write-clear-instructions/specify-format.md)
+* [Include details](write-clear-instructions/include-details.md)
+* [Adopt a persona](write-clear-instructions/adopt-a-persona.md)
+* [Use delimiters](write-clear-instructions/use-delimiters.md)
+* [Specify the steps](write-clear-instructions/specify-the-steps.md)
+* [Provide examples](write-clear-instructions/provide-examples.md)
+* [Specify output length](write-clear-instructions/specify-output-length.md)
+* [Specify output tone](write-clear-instructions/specify-output-tone.md)
+* [Specify output format](write-clear-instructions/specify-output-format.md)
 * [Specify audience](write-clear-instructions/specify-audience.md)
 
 ## Provide Reference Text
 
-* [📪 Use Reference Text](provide-reference-text/use-reference-text.md)
-* [📎 Cite From Reference Text](provide-reference-text/cite-from-reference-text.md)
+* [Use reference text](provide-reference-text/use-reference-text.md)
+* [Cite reference text](provide-reference-text/cite-reference-text.md)
 
 ## Split Task Into Subtasks
 
-* [📝 Sumarize Previous Dialogue](split-task-into-subtasks/sumarize-previous-dialogue.md)
-* [🧑 Sumarize Recursively](split-task-into-subtasks/sumarize-recursively.md)
-* [🛠 Use Intent Classification](split-task-into-subtasks/use-intent-classification.md)
+* [Sumarize previous dialogue](split-task-into-subtasks/sumarize-previous-dialogue.md)
+* [Sumarize recursively](split-task-into-subtasks/sumarize-recursively.md)
+* [Use intent classification](split-task-into-subtasks/use-intent-classification.md)
 
 ## Give model time to think
 
 * [Check comprehension](give-model-time-to-think/check-comprehension.md)
-* [😀 Self-Evaluate Answers](give-model-time-to-think/self-evaluate-answers.md)
-* [🖥 Hide Reasoning Process](give-model-time-to-think/hide-reasoning-process.md)
-* [🎨 Generate Independent Solution](give-model-time-to-think/generate-independent-solution.md)
+* [Generate solution first](give-model-time-to-think/generate-solution-first.md)
+* [Hide reasoning process](give-model-time-to-think/hide-reasoning-process.md)
+* [Self-evaluate answer](give-model-time-to-think/self-evaluate-answer.md)
 
 ## Use external tools
 
-* [💽 Use Embeddings-based Search](use-external-tools/use-embeddings-based-search.md)
-* [💻 Use Code Execution](use-external-tools/use-code-execution.md)
-* [⚙ Call Specific Functions](use-external-tools/call-specific-functions.md)
+* [Use embedding search](use-external-tools/use-embedding-search.md)
+* [Use code execution](use-external-tools/use-code-execution.md)
+* [Call specific functions](use-external-tools/call-specific-functions.md)
 
 ## EVALUATE OUTPUT
 
-* [☑ Evaluate With Standard Answers](evaluate-output/evaluate-with-standard-answers.md)
+* [Build evals](evaluate-output/build-evals.md)
 
 ## QUALITY ASSURANCE
 
@@ -59,24 +58,24 @@
 
 ## PROMT HACKING
 
-* [Prompt Injecting](promt-hacking/prompt-injecting.md)
-* [Prompt Leaking](promt-hacking/prompt-leaking.md)
+* [Prompt injecting](promt-hacking/prompt-injecting.md)
+* [Prompt leaking](promt-hacking/prompt-leaking.md)
 * [Jailbreaking](promt-hacking/jailbreaking.md)
 * [Defensive tactics](promt-hacking/defensive-tactics.md)
 * [Offensive tactics](promt-hacking/offensive-tactics.md)
 
 ## LANGUAGE TASKS
 
-* [Answer](language-tasks/answer.md)
-* [Check](language-tasks/check.md)
-* [Classify](language-tasks/classify.md)
-* [Expand](language-tasks/expand.md)
-* [Extract](language-tasks/extract.md)
-* [Remove](language-tasks/remove.md)
-* [Restructure](language-tasks/restructure.md)
-* [Rewrite](language-tasks/rewrite.md)
-* [Summarize](language-tasks/summarize.md)
-* [Translate](language-tasks/translate.md)
+* [Answering](language-tasks/answering.md)
+* [Checking](language-tasks/checking.md)
+* [Classifying](language-tasks/classifying.md)
+* [Expanding](language-tasks/expanding.md)
+* [Extracting](language-tasks/extracting.md)
+* [Removing](language-tasks/removing.md)
+* [Restructuring](language-tasks/restructuring.md)
+* [Rewriting](language-tasks/rewriting.md)
+* [Summarizing](language-tasks/summarizing.md)
+* [Translating](language-tasks/translating.md)
 
 ## MULTIMODAL TASKS
 
@@ -87,6 +86,19 @@
 * [Text-To-Speech](multimodal-tasks/text-to-speech.md)
 * [Text-To-Video](multimodal-tasks/text-to-video.md)
 * [Visual Q\&A](multimodal-tasks/visual-q-and-a.md)
+
+## Prompt examples
+
+* [Blog writing](prompt-examples/blog-writing.md)
+* [Business](prompt-examples/business.md)
+* [Coding](prompt-examples/coding.md)
+* [Copywriting](prompt-examples/copywriting.md)
+* [Education](prompt-examples/education.md)
+* [Marketing](prompt-examples/marketing.md)
+* [Problem solving](prompt-examples/problem-solving.md)
+* [Productivity](prompt-examples/productivity.md)
+* [Prompt engineering](prompt-examples/prompt-engineering.md)
+* [SEO](prompt-examples/seo.md)
 
 ## 🔗 CHATBOT
 

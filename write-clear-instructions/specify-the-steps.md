@@ -1,2 +1,2 @@
-# ✂ Specify The Steps
+# Specify the steps
 

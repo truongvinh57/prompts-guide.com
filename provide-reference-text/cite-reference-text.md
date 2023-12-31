@@ -1,4 +1,4 @@
-# 📎 Cite From Reference Text
+# Cite reference text
 
 ## How Projects work
 

@@ -1,2 +1,2 @@
-# 📏 Specify Output Length
+# Specify output length
 

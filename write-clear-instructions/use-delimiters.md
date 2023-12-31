@@ -1,2 +1,2 @@
-# 📃 Use Delimiters
+# Use delimiters
 

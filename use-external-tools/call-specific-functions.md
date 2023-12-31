@@ -1,2 +1,2 @@
-# ⚙ Call Specific Functions
+# Call specific functions
 
