@@ -20,26 +20,26 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="prompt-engineering/strategies-and-techniques/write-clear-instructions/include-details.md" %}
-[include-details.md](prompt-engineering/strategies-and-techniques/write-clear-instructions/include-details.md)
+{% content-ref url="promting-techniques/write-clear-instructions/include-details.md" %}
+[include-details.md](promting-techniques/write-clear-instructions/include-details.md)
 {% endcontent-ref %}
 
-{% content-ref url="prompt-engineering/strategies-and-techniques/write-clear-instructions/provide-examples.md" %}
-[provide-examples.md](prompt-engineering/strategies-and-techniques/write-clear-instructions/provide-examples.md)
+{% content-ref url="promting-techniques/write-clear-instructions/provide-examples.md" %}
+[provide-examples.md](promting-techniques/write-clear-instructions/provide-examples.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="prompt-engineering/strategies-and-techniques/split-task-into-subtasks/use-intent-classification.md" %}
-[use-intent-classification.md](prompt-engineering/strategies-and-techniques/split-task-into-subtasks/use-intent-classification.md)
+{% content-ref url="promting-techniques/split-task-into-subtasks/use-intent-classification.md" %}
+[use-intent-classification.md](promting-techniques/split-task-into-subtasks/use-intent-classification.md)
 {% endcontent-ref %}
 
-{% content-ref url="prompt-engineering/strategies-and-techniques/split-task-into-subtasks/sumarize-previous-dialogue.md" %}
-[sumarize-previous-dialogue.md](prompt-engineering/strategies-and-techniques/split-task-into-subtasks/sumarize-previous-dialogue.md)
+{% content-ref url="promting-techniques/split-task-into-subtasks/sumarize-previous-dialogue.md" %}
+[sumarize-previous-dialogue.md](promting-techniques/split-task-into-subtasks/sumarize-previous-dialogue.md)
 {% endcontent-ref %}
 
-{% content-ref url="prompt-engineering/strategies-and-techniques/split-task-into-subtasks/sumarize-recursively.md" %}
-[sumarize-recursively.md](prompt-engineering/strategies-and-techniques/split-task-into-subtasks/sumarize-recursively.md)
+{% content-ref url="promting-techniques/split-task-into-subtasks/sumarize-recursively.md" %}
+[sumarize-recursively.md](promting-techniques/split-task-into-subtasks/sumarize-recursively.md)
 {% endcontent-ref %}

@@ -1,2 +1,0 @@
-# 📘 Strategies And Techniques
-
