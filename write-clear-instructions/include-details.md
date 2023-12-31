@@ -5,41 +5,30 @@ description: Include details to your question to get better responses.
 # Include details
 
 {% hint style="info" %}
-The relevance and accuracy of LLM's responses greatly depend on how you frame your questions. Detailed and well-structured questions lead to more tailored and useful answers. Otherwise, you're essentially relying on the model to interpret or guess your intentions.
+The quality of answers from large language models (LLMs) largely depends on how you ask your questions. Clear and detailed questions result in better and more specific answers. If the questions are vague, the model might not understand your exact needs.
 {% endhint %}
 
-### **Define Objective Clearly**
+### Clearly State Your Goal
 
-It's crucial to start by stating your goal. If you're seeking information, advice, or a solution, ensure that your objective is unmistakably clear.
+Begin by clearly stating your purpose. Whether you're looking for information, guidance, or a solution, make sure your goal is explicitly expressed.
 
 {% hint style="success" %}
-_**Example 1:**_ If you're looking for a book recommendation, specify the genre. Say, "I want a science fiction book recommendation" instead of just ~~"suggest a book"~~.
+Example 1: To get a book recommendation, be specific about the genre. Instead of just saying ~~"suggest a book"~~, say "I want a science fiction book recommendation".
 {% endhint %}
 
 ***
 
-### **Provide Relevant Context**
+### Include Necessary Background Information
 
-Always provide context by sharing relevant background information and include specific details such as numbers, dates, names, or features.
-
-{% hint style="success" %}
-_**Example 2**_**:** Instead of asking ~~"What's the weather like?"~~, ask "What's the weather forecast for New York City on January 5th?".
-{% endhint %}
+It's important to provide context by including relevant background information.
 
 {% hint style="success" %}
-_**Example 3**_**:** If asking for travel advice, include preferences: "I'm looking for a family-friendly beach destination in Europe for a summer holiday, with a moderate budget".
+Example 2: When seeking travel advice, mention your preferences. For instance, say "I'm looking for a family-friendly beach destination in Europe for a summer holiday, with a moderate budget".
 {% endhint %}
 
-***
-
-### **Avoid Ambiguity**
-
-To improve the accuracy of the response, use descriptive keywords and avoid vague terms or open-ended questions. Strive for specificity to direct the model's response more effectively.
+To ensure more precise answers, avoid asking vague or open-ended questions and instead ask specific, directed questions.
 
 {% hint style="success" %}
-_**Example 4**_**:** Rather than asking ~~"How do I fix my phone?"~~, specify the issue: "How can I fix a cracked screen on an iPhone 15?".
+Example 3: Instead of a general query like ~~"How do I fix my phone?"~~, provide specifics: "How can I fix a cracked screen on an iPhone 15?".
 {% endhint %}
 
-{% hint style="success" %}
-_**Example 5**_**:** For a recipe query, instead of saying ~~"pasta recipe"~~, specify "easy vegan pasta recipe under 30 minutes".
-{% endhint %}
