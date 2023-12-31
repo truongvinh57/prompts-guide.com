@@ -17,7 +17,7 @@ If the questions are vague, the model might not understand your exact needs.
 Begin by clearly stating your purpose. Whether you're looking for information, guidance, or a solution, make sure your goal is explicitly expressed.
 
 {% hint style="success" %}
-Example: To get a book recommendation, be specific about the genre. Instead of just saying ~~"suggest a book"~~, say "I want a science fiction book recommendation".
+Example: To get a book recommendation, be specific about the category. Instead of just saying ~~"suggest a book"~~, say "I want a self-help book recommendation".
 {% endhint %}
 
 ***
