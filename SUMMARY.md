@@ -103,6 +103,6 @@
 ## 🔗 CHATBOT
 
 * [ChatGPT](https://chat.openai.com/)
+* [Bing Chat](https://www.bing.com/search?q=Bing+AI\&showconv=1\&FORM=hpcodx)
 * [Google Bard](https://bard.google.com/chat)
 * [Claude](https://claude.ai/chats)
-* [Bing Chat](https://www.bing.com/search?q=Bing+AI\&showconv=1\&FORM=hpcodx)
