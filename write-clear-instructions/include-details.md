@@ -1,7 +1,3 @@
----
-description: Page des. test
----
-
 # 💡 Include Details
 
 {% hint style="info" %}
